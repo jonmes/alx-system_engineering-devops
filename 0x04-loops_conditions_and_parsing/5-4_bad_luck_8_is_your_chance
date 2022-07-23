@@ -1,4 +1,5 @@
-#!/usr/bin/bash
+#!/usr/bin/env bash
+#: Bash script that loops from 1 to 10 and using while loop and if elif statement
 n=1
 while [ $n -lt 10 ]
 do
