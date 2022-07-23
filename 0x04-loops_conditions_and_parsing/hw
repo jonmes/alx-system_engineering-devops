@@ -1,0 +1,3 @@
+#!/usr/bin/bash
+#: Title : Hello world
+echo hello, world!
