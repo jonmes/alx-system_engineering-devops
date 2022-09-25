@@ -1,0 +1,3 @@
+#!/bin/bash
+VAL= ls -la
+ls -la | xargs echo > ls_cwd_content
