@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -print | grep -i .js | xargs rm
