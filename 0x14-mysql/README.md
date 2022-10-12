@@ -1,11 +1,16 @@
-# 0x14. Mysql
+# 0x14. MySQL 
 
-## Description
-This project sets up a MySQL primary-replica cluster on our own servers.
+## Author 
+- Email [Girma Tarekegn] (https://email.com/tarekegngirma21@gmail.com)
+- GitHub [@girmatarekegn](https://github.com/girma336)
+- Twitter: [@GGt7045](https://twitter.com/GGt7045)
 
-## Table of contents
-Files | Description
------ | -----------
-[4-mysql_configuration_primary](./4-mysql_configuration_primary) | MySQL primary configuration
-[4-mysql_configuration_replica](./4-mysql_configuration_replica) | MySQL replica configuration
-[5-mysql_backup](./5-mysql_backup) | Bash script that generates a MySQL dump and creates a compressed archive out of it
+
+## Resource
+- W3School (www.w3school.com)
+
+## License
+- This project is MIT [MIT](./MIT.md) licensed.
+
+
+
